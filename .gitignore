@@ -1,0 +1,8 @@
+faucet_project/__pycache__/
+faucet_app/__pycache__/
+faucet_app/migrations/__pycache__/
+
+db.sqlite3
+
+venv
+.env
